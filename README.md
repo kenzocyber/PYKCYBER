@@ -1,5 +1,4 @@
 # PYKCYBER
-<!DOCTYPE html><html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -89,4 +88,3 @@
   </div>  <div class="footer">
     <p>&copy; 2025 PYK CYBER. Semua Hak Dilindungi.</p>
   </div></body>
-</html>
