@@ -1,4 +1,4 @@
-</head>
+#PAYAKUMBUH CYBER
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>PYK CYBER | Skill Hacking</title>
@@ -81,7 +81,7 @@
       <div class="service-item">🛡️ Cybersecurity Awareness</div>
     </div>
   </div>  <div class="contact">
-    <h2>Kontak Kami</h2>
+    <h2>KONTAK PYKCYBER</h2>
     <p>📧 Email: <a href="mailto:pykcyber@gmail.com">pykcyber@gmail.com</a></p>
     <p>📱 WhatsApp: <a href="https://wa.me/6283143490913">0831-4349-0913</a></p>
   </div>  <div class="footer">
