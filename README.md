@@ -1,5 +1,4 @@
 
-<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>PYK CYBER | Skill Hacking</title>
@@ -86,5 +85,5 @@
     <p>📧 Email: <a href="mailto:pykcyber@gmail.com">pykcyber@gmail.com</a></p>
     <p>📱 WhatsApp: <a href="https://wa.me/6283143490913">0831-4349-0913</a></p>
   </div>  <div class="footer">
-    <p>&copy; 2025 PYK CYBER. Semua Hak Dilindungi.</p>
+    <p>&copy; 2025 PYK CYBER. Semua Hak Dilindungi Undang Undang.</p>
   </div></body>
